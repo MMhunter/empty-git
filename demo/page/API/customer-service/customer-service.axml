@@ -1,0 +1,6 @@
+<view class="page">
+    <view class="customer-service-button">
+        <contact-button tnt-inst-id="FRYFEGCN" scene="SCE00000725" />
+    </view>
+    <text class="customer-service-tips">点击气泡icon打开云客服消息界面</text>
+</view>
